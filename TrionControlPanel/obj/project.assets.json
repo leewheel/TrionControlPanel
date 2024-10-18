@@ -1975,23 +1975,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Users\\leewheel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Git\\TrionControlPanel\\TrionControlPanel\\TrionControlPanel.csproj",
+      "projectUniqueName": "C:\\WoWServer\\335Source\\Trion\\TrionControlPanel\\TrionControlPanel\\TrionControlPanel.csproj",
       "projectName": "TrionControlPanel",
-      "projectPath": "D:\\Repos\\Git\\TrionControlPanel\\TrionControlPanel\\TrionControlPanel.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Git\\TrionControlPanel\\TrionControlPanel\\obj\\",
+      "projectPath": "C:\\WoWServer\\335Source\\Trion\\TrionControlPanel\\TrionControlPanel\\TrionControlPanel.csproj",
+      "packagesPath": "C:\\Users\\leewheel\\.nuget\\packages\\",
+      "outputPath": "C:\\WoWServer\\335Source\\Trion\\TrionControlPanel\\TrionControlPanel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leewheel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2007,8 +2007,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Repos\\Git\\TrionControlPanel\\TrionLibrary\\TrionLibrary.csproj": {
-              "projectPath": "D:\\Repos\\Git\\TrionControlPanel\\TrionLibrary\\TrionLibrary.csproj"
+            "C:\\WoWServer\\335Source\\Trion\\TrionControlPanel\\TrionLibrary\\TrionLibrary.csproj": {
+              "projectPath": "C:\\WoWServer\\335Source\\Trion\\TrionControlPanel\\TrionLibrary\\TrionLibrary.csproj"
             }
           }
         }
@@ -2046,7 +2046,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
